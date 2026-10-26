@@ -1,0 +1,16 @@
+{
+  "name": "imovies-cinema-platform",
+  "version": "1.0.0",
+  "description": "IMovies — Movie Ticket Booking Made Simple (MERN Stack College Project)",
+  "scripts": {
+    "server": "npm run start --prefix server",
+    "server:dev": "npm run dev --prefix server",
+    "server:seed": "npm run seed --prefix server",
+    "server:test": "npm run test --prefix server",
+    "client": "npm run dev --prefix client",
+    "client:build": "npm run build --prefix client"
+  },
+  "keywords": ["mern", "movie-booking", "cinema", "react", "express", "mongodb", "vite"],
+  "author": "IMovies Team",
+  "license": "ISC"
+}
